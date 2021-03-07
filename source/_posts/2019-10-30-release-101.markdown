@@ -619,7 +619,7 @@ The **holiday name** sensor has been renamed to **holiday**. ([@tsvi] - [#27654]
 - Move imports in blockchain component ([@Bouni] - [#27852]) ([blockchain docs])
 - Move blackbird imports ([@Bouni] - [#27849]) ([blackbird docs])
 - cryptography + numpy for python 3.8 ([@pvizeli] - [#27861]) ([iqvia docs]) ([opencv docs]) ([tensorflow docs]) ([trend docs])
-- Move imports in bom component ([@Bouni] - [#27854]) ([bom docs])
+- Move imports in bom component ([@Bouni] - [#27854])
 - Move imports in bmw_connected_drive component ([@Bouni] - [#27853]) ([bmw_connected_drive docs])
 - Move imports in blink component ([@Bouni] - [#27850]) ([blink docs])
 - Move imports in blinksticklight component ([@Bouni] - [#27851]) ([blinksticklight docs])
@@ -784,7 +784,7 @@ The **holiday name** sensor has been renamed to **holiday**. ([@tsvi] - [#27654]
 - Move imports in lastfm component ([@djpremier] - [#28010]) ([lastfm docs])
 - Move imports in knx component ([@djpremier] - [#28008]) ([knx docs])
 - Move imports in gtfs component ([@djpremier] - [#27999]) ([gtfs docs])
-- Move imports in ptvsd component ([@djpremier] - [#28087]) ([ptvsd docs])
+- Move imports in ptvsd component ([@djpremier] - [#28087])
 - Move imports in isy994 component ([@djpremier] - [#28004]) ([isy994 docs])
 - Support to use Whatsapp numbers (fixes ##28065) ([@fabaff] - [#28078]) ([twilio docs]) ([twilio_call docs]) ([twilio_sms docs])
 - Add modelnumber for ecobee4 ([@marthoc] - [#28107]) ([ecobee docs])
@@ -793,7 +793,7 @@ The **holiday name** sensor has been renamed to **holiday**. ([@tsvi] - [#27654]
 - Add support SQL VACUUM for PostgeSQL ([@bastshoes] - [#28106]) ([recorder docs])
 - Move imports in dsmr component ([@djpremier] - [#27974]) ([dsmr docs])
 - Minor tweaks for sensor device automations ([@emontnemery] - [#27829]) ([sensor docs])
-- Fix test coverage, reverting top level import ptvsd ([@frenck] - [#28118]) ([ptvsd docs])
+- Fix test coverage, reverting top level import ptvsd ([@frenck] - [#28118])
 - Implement ToggleController, RangeController, and ModeController in alexa ([@ochlocracy] - [#27302]) ([alexa docs])
 - Add option to specify mDNS advertised IP address for HomeKit Bridge ([@mback2k] - [#26791]) ([homekit docs])
 - Support custom source type for MQTT device tracker ([@raman325] - [#27838]) ([mqtt docs])
@@ -1568,7 +1568,6 @@ The **holiday name** sensor has been renamed to **holiday**. ([@tsvi] - [#27654]
 [bme280 docs]: /integrations/bme280/
 [bme680 docs]: /integrations/bme680/
 [bmw_connected_drive docs]: /integrations/bmw_connected_drive/
-[bom docs]: /integrations/bom/
 [broadlink docs]: /integrations/broadlink/
 [brottsplatskartan docs]: /integrations/brottsplatskartan/
 [browser docs]: /integrations/browser/
@@ -1775,7 +1774,6 @@ The **holiday name** sensor has been renamed to **holiday**. ([@tsvi] - [#27654]
 [prometheus docs]: /integrations/prometheus/
 [proxy docs]: /integrations/proxy/
 [ps4 docs]: /integrations/ps4/
-[ptvsd docs]: /integrations/ptvsd/
 [pushbullet docs]: /integrations/pushbullet/
 [pushover docs]: /integrations/pushover/
 [qrcode docs]: /integrations/qrcode/
